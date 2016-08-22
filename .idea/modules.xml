@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TopLevel1604.iml" filepath="$PROJECT_DIR$/TopLevel1604.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day36_butterknife_demo/day36_butterknife_demo.iml" filepath="$PROJECT_DIR$/day36_butterknife_demo/day36_butterknife_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day36_butterknife_gift/day36_butterknife_gift.iml" filepath="$PROJECT_DIR$/day36_butterknife_gift/day36_butterknife_gift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day36_dagger2_demo/day36_dagger2_demo.iml" filepath="$PROJECT_DIR$/day36_dagger2_demo/day36_dagger2_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day36_di_android_demo/day36_di_android_demo.iml" filepath="$PROJECT_DIR$/day36_di_android_demo/day36_di_android_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day36_di_wangbaoqiang_demo/day36_di_wangbaoqiang_demo.iml" filepath="$PROJECT_DIR$/day36_di_wangbaoqiang_demo/day36_di_wangbaoqiang_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademo/javademo.iml" filepath="$PROJECT_DIR$/javademo/javademo.iml" />
+    </modules>
+  </component>
+</project>

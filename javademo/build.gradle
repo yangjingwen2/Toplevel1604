@@ -1,0 +1,5 @@
+apply plugin: 'java'//表示是一个java项目
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
