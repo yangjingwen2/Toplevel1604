@@ -4,14 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TopLevel1604.iml" filepath="$PROJECT_DIR$/TopLevel1604.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day36_butterknife_demo/day36_butterknife_demo.iml" filepath="$PROJECT_DIR$/day36_butterknife_demo/day36_butterknife_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day36_butterknife_gift/day36_butterknife_gift.iml" filepath="$PROJECT_DIR$/day36_butterknife_gift/day36_butterknife_gift.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day36_dagger2_demo/day36_dagger2_demo.iml" filepath="$PROJECT_DIR$/day36_dagger2_demo/day36_dagger2_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day36_di_android_demo/day36_di_android_demo.iml" filepath="$PROJECT_DIR$/day36_di_android_demo/day36_di_android_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day36_di_wangbaoqiang_demo/day36_di_wangbaoqiang_demo.iml" filepath="$PROJECT_DIR$/day36_di_wangbaoqiang_demo/day36_di_wangbaoqiang_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day37_okhttp_get_demo/day37_okhttp_get_demo.iml" filepath="$PROJECT_DIR$/day37_okhttp_get_demo/day37_okhttp_get_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day37_okhttp_post_demo/day37_okhttp_post_demo.iml" filepath="$PROJECT_DIR$/day37_okhttp_post_demo/day37_okhttp_post_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javademo/javademo.iml" filepath="$PROJECT_DIR$/javademo/javademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day37_okhttp_upload/day37_okhttp_upload.iml" filepath="$PROJECT_DIR$/day37_okhttp_upload/day37_okhttp_upload.iml" />
     </modules>
   </component>
 </project>
