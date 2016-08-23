@@ -1,1 +1,1 @@
-include ':app', ':javademo', ':day36_di_wangbaoqiang_demo', ':day36_di_android_demo', ':day36_dagger2_demo', ':day36_butterknife_demo', ':day36_butterknife_gift'
+include ':app', ':javademo', ':day36_di_wangbaoqiang_demo', ':day36_di_android_demo', ':day36_dagger2_demo', ':day36_butterknife_demo', ':day36_butterknife_gift', ':day37_okhttp_get_demo', ':day37_okhttp_post_demo'
