@@ -10,20 +10,24 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day38_alipay_demo" />
             <option value="$PROJECT_DIR$/day38_database_demo" />
             <option value="$PROJECT_DIR$/day38_greendao_curd_demo" />
             <option value="$PROJECT_DIR$/day38_greendao_demo" />
             <option value="$PROJECT_DIR$/day38_greendao_tool" />
+            <option value="$PROJECT_DIR$/day38_recyclerview_demo" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day38_alipay_demo" />
             <option value="$PROJECT_DIR$/day38_database_demo" />
             <option value="$PROJECT_DIR$/day38_greendao_curd_demo" />
             <option value="$PROJECT_DIR$/day38_greendao_demo" />
             <option value="$PROJECT_DIR$/day38_greendao_tool" />
+            <option value="$PROJECT_DIR$/day38_recyclerview_demo" />
           </set>
         </option>
       </GradleProjectSettings>
