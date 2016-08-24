@@ -10,20 +10,20 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/day37_okhttp_upload" />
-            <option value="$PROJECT_DIR$/day37_retrofit_get_demo" />
-            <option value="$PROJECT_DIR$/day37_retrofit_gift_demo" />
-            <option value="$PROJECT_DIR$/day37_retrofit_post_demo" />
+            <option value="$PROJECT_DIR$/day38_database_demo" />
+            <option value="$PROJECT_DIR$/day38_greendao_curd_demo" />
+            <option value="$PROJECT_DIR$/day38_greendao_demo" />
+            <option value="$PROJECT_DIR$/day38_greendao_tool" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/day37_okhttp_upload" />
-            <option value="$PROJECT_DIR$/day37_retrofit_get_demo" />
-            <option value="$PROJECT_DIR$/day37_retrofit_gift_demo" />
-            <option value="$PROJECT_DIR$/day37_retrofit_post_demo" />
+            <option value="$PROJECT_DIR$/day38_database_demo" />
+            <option value="$PROJECT_DIR$/day38_greendao_curd_demo" />
+            <option value="$PROJECT_DIR$/day38_greendao_demo" />
+            <option value="$PROJECT_DIR$/day38_greendao_tool" />
           </set>
         </option>
       </GradleProjectSettings>
