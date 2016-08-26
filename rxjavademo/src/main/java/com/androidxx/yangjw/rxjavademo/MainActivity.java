@@ -9,6 +9,7 @@ import android.widget.Toast;
 import rx.Observable;
 import rx.Subscriber;
 import rx.functions.Action1;
+import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
@@ -28,21 +29,38 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        method1();
-        method2();
-        method3();
-
+//        method1();
+//        method2();
+//        method3();
+        method4();
 
     }
 
-//    private void method4() {
-//        Observable.subscribe(new Action1<String>() {
-//            @Override
-//            public void call(String s) {
-//
-//            }
-//        });
-//    }
+
+    private void method4() {
+        Observable.create(new Observable.OnSubscribe<String>() {
+            @Override
+            public void call(Subscriber<? super String> subscriber) {
+                subscriber.onNext("zhangsan");
+            }
+        }).map(new Func1<String, Object>() {
+            @Override
+            public Object call(String s) {
+                return s + ":lisi";
+            }
+        }).map(new Func1<Object, String>() {
+            @Override
+            public String call(Object o) {
+                return "----" + o;
+            }
+        }).subscribe(new Action1<String>() {
+            @Override
+            public void call(String s) {
+                Log.i(TAG, "call: " + s);
+            }
+        });
+
+    }
 
     private void method3() {
         Observable.just("zhangsan")

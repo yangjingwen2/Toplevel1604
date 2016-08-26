@@ -16,6 +16,8 @@
             <option value="$PROJECT_DIR$/day38_greendao_demo" />
             <option value="$PROJECT_DIR$/day38_greendao_tool" />
             <option value="$PROJECT_DIR$/day38_recyclerview_demo" />
+            <option value="$PROJECT_DIR$/day39_rxjava_retrofit_demo" />
+            <option value="$PROJECT_DIR$/rxjavademo" />
           </set>
         </option>
         <option name="myModules">
@@ -28,6 +30,8 @@
             <option value="$PROJECT_DIR$/day38_greendao_demo" />
             <option value="$PROJECT_DIR$/day38_greendao_tool" />
             <option value="$PROJECT_DIR$/day38_recyclerview_demo" />
+            <option value="$PROJECT_DIR$/day39_rxjava_retrofit_demo" />
+            <option value="$PROJECT_DIR$/rxjavademo" />
           </set>
         </option>
       </GradleProjectSettings>
