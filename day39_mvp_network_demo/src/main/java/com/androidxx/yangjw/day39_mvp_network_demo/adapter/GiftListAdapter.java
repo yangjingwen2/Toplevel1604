@@ -48,7 +48,7 @@ public class GiftListAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
        View view = convertView;
-        ViewHolder viewHolder = null;
+       ViewHolder viewHolder = null;
         if (view == null) {
             view = LayoutInflater.from(mContext).inflate(R.layout.gift_item_view,parent,false);
             viewHolder = new ViewHolder(view);
